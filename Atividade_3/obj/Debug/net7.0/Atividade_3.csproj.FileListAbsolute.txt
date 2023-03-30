@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\bin\Debug\net7.0\Atividade_3.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\bin\Debug\net7.0\Atividade_3.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\bin\Debug\net7.0\Atividade_3.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\bin\Debug\net7.0\Atividade_3.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\bin\Debug\net7.0\Atividade_3.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\Atividade_3.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\Atividade_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\Atividade_3.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\Atividade_3.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\Atividade_3.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\Atividade_3.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\refint\Atividade_3.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\Atividade_3.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\Atividade_3.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades 30.03\Atividade_3\obj\Debug\net7.0\ref\Atividade_3.dll
